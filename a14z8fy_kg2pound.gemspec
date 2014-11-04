@@ -6,10 +6,10 @@ require 'a14z8fy_kg2pound/version'
 Gem::Specification.new do |spec|
   spec.name          = "a14z8fy_kg2pound"
   spec.version       = A14z8fyKg2pound::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["Yang Fuchi"]
+  spec.email         = ["a14z8fy@aiit.ac.jp"]
+  spec.summary       = %q{ summary.}
+  spec.description   = %q{ description.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

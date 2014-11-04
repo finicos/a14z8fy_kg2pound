@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'a14z8fy_kg2pound'
+
+kg = A14z8fyKg2pound::K2p.new
+puts kg.toLb(ARGV[0].to_f)
